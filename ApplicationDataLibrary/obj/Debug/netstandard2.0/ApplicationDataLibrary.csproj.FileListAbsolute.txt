@@ -1,0 +1,9 @@
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\bin\Debug\netstandard2.0\ApplicationDataLibrary.deps.json
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\bin\Debug\netstandard2.0\ApplicationDataLibrary.dll
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\bin\Debug\netstandard2.0\ApplicationDataLibrary.pdb
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\obj\Debug\netstandard2.0\ApplicationDataLibrary.AssemblyInfoInputs.cache
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\obj\Debug\netstandard2.0\ApplicationDataLibrary.AssemblyInfo.cs
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\obj\Debug\netstandard2.0\ApplicationDataLibrary.dll
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\obj\Debug\netstandard2.0\ApplicationDataLibrary.pdb
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\obj\Debug\netstandard2.0\ApplicationDataLibrary.csprojAssemblyReference.cache
+C:\Users\12094\source\repos\WebApi\ApplicationDataLibrary\obj\Debug\netstandard2.0\ApplicationDataLibrary.csproj.CoreCompileInputs.cache
